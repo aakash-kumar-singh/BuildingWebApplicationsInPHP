@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Aakash Kumar Singh ac884e1c </title>
+<title> ac884e1c </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
