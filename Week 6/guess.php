@@ -1,7 +1,7 @@
 <html>
 <body>
 <title> ac884e1c </title>
-<h1> Welcome to my guessing game</h1>
+<h1> ac884e1c </h1>
 
 <?php
 $correctnumber=19; //change this number //
